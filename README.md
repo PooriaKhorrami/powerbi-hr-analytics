@@ -11,7 +11,7 @@ To analyze employee presence, WFH, and sick leave trends using Power BI and deli
 
 - `PowerBi_HR_Analytics_Project.pbix` – Power BI report file
 - `Attendance Sheet 2022-2023_Masked.xlsx` – Excel data source (anonymized)
-- `dashboard_screenshot.png` – Preview of final dashboard
+- `PowerBi_HR_Analytics_Project.gif` – Preview of final dashboard
 
 ## 🔧 Tools Used
 
